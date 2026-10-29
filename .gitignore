@@ -1,0 +1,24 @@
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary and log files
+*.tmp
+*.log
+*.bak
+
+# Compiled output
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+
+# Local-only configuration and credentials
+.env
+*.key
+*.pem
